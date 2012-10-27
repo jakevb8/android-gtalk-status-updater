@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Current Location</string>
+    <string name="app_name">Gtalk Status Updater</string>
+    <string name="username">username@gmail.com</string>
+    <string name="password">password</string>
+    <string name="port">5222</string>
+    <string name="serverName">gmail.com</string>
+    <string name="host">talk.google.com</string>
+    <string name="fullAddress">Full Address</string>
+    <string name="autoReconnect">Auto Reconnect</string>
+
+</resources>

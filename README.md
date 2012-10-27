@@ -1,2 +1,0 @@
-android-gtalk-status-updater
-============================
